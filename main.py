@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: MIT
 """One-line entry: the funniest thing a talking elevator would say."""
+# floors served: all of them, eventually.
 
 
 def main() -> None:
